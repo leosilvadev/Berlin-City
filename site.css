@@ -1,0 +1,71 @@
+body {
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 120%;
+	line-height: 1.5;
+}
+
+h1, h2 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+.berlin-tor {
+	float: right;
+	box-sizing: border-box;
+	border-left: 10px solid white;
+	border-bottom: 10px solid white;
+}
+
+.berlin-tor {
+	position: absolute;
+	top: 10;
+	right: 100px;
+}
+
+.main-title {
+	text-align: center;
+	background-color: #C2CCCA;
+	color:rgb(63, 63, 156);
+	padding: 20px;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: justify;
+	margin: 20px 0;
+}
+
+
+.bubble {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+
+
+.subtitle {
+	font-size: 30px;
+	clear: both;
+}
+
+
+main {
+	float: center;
+	width: 100%;
+	padding-bottom: 80px;
+}
+
+.Berlin-photo {
+	float: right;
+	box-sizing: border-box;
+	border-left: 10px solid white;
+	border-bottom: 10px solid white;
+}
+
+.Berlin-photo {
+	position: relative;
+	top: 0;
+	right: 150px;
+}
+
